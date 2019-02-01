@@ -1,6 +1,8 @@
 # RN-background-tracking-demo
 Example of background process tracking location by Polyline on React Native
 
+Developed base on Android
+
 Credit:
 react-native-background-geolocation
 https://github.com/mauron85/react-native-background-geolocation
